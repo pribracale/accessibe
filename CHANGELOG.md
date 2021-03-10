@@ -6,10 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.7] - 2019-03-10
+### Fixed
+- Documentation updated.
+
 ## [1.0.6] - 2021-01-28
-
 ## [1.0.5] - 2021-01-14
-
 ### Fixed
 - Icon to app store
 
